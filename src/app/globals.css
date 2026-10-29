@@ -20,6 +20,7 @@
 @theme inline {
   --color-bg: var(--bg);
   --color-bg-2: var(--bg-2);
+  --color-red: #f87171;
   --color-panel: var(--panel);
   --color-cyan: var(--cyan);
   --color-magenta: var(--magenta);
